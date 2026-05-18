@@ -193,3 +193,4 @@ pytest tests/ -v
 - [ ] Per-emergency dispatch timeline
 - [ ] Historical trend charts
 - [ ] IoT health monitoring integration
+
